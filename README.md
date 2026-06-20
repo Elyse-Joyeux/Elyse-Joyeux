@@ -15,7 +15,6 @@ $ whoami
   Elyse Joyeux — Backend Dev & Cyber Enthusiast 🇷🇼
 
 $ cat about.txt
-  🔭 Currently building  → Hydro Orbit (smart water monitoring system)
   🌱 Currently learning  → Advanced Backend Development & Frameworks
   💬 Ask me about        → Node.js · Express · Cybersecurity
   📍 Location            → Kigali, Rwanda
