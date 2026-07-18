@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Elyse+Joyeux+%F0%9F%91%8B;Backend+Developer+%7C+Cyber+Enthusiast;Rwanda+Coding+Academy+%F0%9F%87%B7%F0%9F%87%BC;Always+learning%2C+always+building...)](https://github.com/Elyse-Joyeux)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Elysé+Joyeux+%F0%9F%91%8B;Backend+Developer+%7C+Cyber+Enthusiast;Rwanda+Coding+Academy+%F0%9F%87%B7%F0%9F%87%BC;Always+learning%2C+always+building...)](https://github.com/Elyse-Joyeux)
 
 <img src="https://komarev.com/ghpvc/?username=Elyse-Joyeux&label=Profile+Views&color=00ff41&style=flat" />
 
