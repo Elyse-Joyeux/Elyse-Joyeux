@@ -12,7 +12,7 @@
 
 ```bash
 $ whoami
-  Elyse Joyeux — Backend Dev & Cyber Enthusiast 🇷🇼
+  Elysé  Joyeux — Backend Dev & Cyber Enthusiast 🇷🇼
 
 $ cat about.txt
   🌱 Currently learning  → Advanced Backend Development & Frameworks
